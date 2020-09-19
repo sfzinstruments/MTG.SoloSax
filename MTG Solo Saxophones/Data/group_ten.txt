@@ -1,0 +1,13 @@
+<group>
+hivel=100
+group_label=p
+#include "Data/ten_p_rr1.txt"
+#include "Data/ten_p_rr2.txt"
+#include "Data/ten_p_rr3.txt"
+
+<group>
+lovel=101
+group_label=f
+#include "Data/ten_f_rr1.txt"
+#include "Data/ten_f_rr2.txt"
+#include "Data/ten_f_rr3.txt"

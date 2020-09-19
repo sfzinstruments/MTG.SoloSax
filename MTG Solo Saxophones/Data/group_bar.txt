@@ -1,0 +1,21 @@
+<group>
+hivel=85
+group_label=p
+#include "Data/bar_p_rr1.txt"
+#include "Data/bar_p_rr2.txt"
+#include "Data/bar_p_rr3.txt"
+
+<group>
+lovel=86
+hivel=106
+group_label=m
+#include "Data/bar_m_rr1.txt"
+#include "Data/bar_m_rr2.txt"
+#include "Data/bar_m_rr3.txt"
+
+<group>
+lovel=107
+group_label=f
+#include "Data/bar_f_rr1.txt"
+#include "Data/bar_f_rr2.txt"
+#include "Data/bar_f_rr3.txt"

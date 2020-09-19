@@ -1,0 +1,130 @@
+<master>
+group_label=breath
+seq_length=8
+key=39
+
+<group> seq_position=1
+<region> region_label=01 lorand=0.000 hirand=0.125 sample=ten_b_01.$EXT
+<region> region_label=02 lorand=0.125 hirand=0.250 sample=ten_b_02.$EXT
+<region> region_label=03 lorand=0.250 hirand=0.375 sample=ten_b_03.$EXT
+<region> region_label=04 lorand=0.375 hirand=0.500 sample=ten_b_04.$EXT
+<region> region_label=05 lorand=0.500 hirand=0.625 sample=ten_b_05.$EXT
+<region> region_label=06 lorand=0.625 hirand=0.750 sample=ten_b_06.$EXT
+<region> region_label=07 lorand=0.750 hirand=0.875 sample=ten_b_07.$EXT
+<region> region_label=08 lorand=0.875 hirand=1.000 sample=ten_b_08.$EXT
+
+<group> seq_position=2
+<region> region_label=09 lorand=0.000 hirand=0.125 sample=ten_b_09.$EXT
+<region> region_label=10 lorand=0.125 hirand=0.250 sample=ten_b_10.$EXT
+<region> region_label=11 lorand=0.250 hirand=0.375 sample=ten_b_11.$EXT
+<region> region_label=12 lorand=0.375 hirand=0.500 sample=ten_b_12.$EXT
+<region> region_label=13 lorand=0.500 hirand=0.625 sample=ten_b_13.$EXT
+<region> region_label=14 lorand=0.625 hirand=0.750 sample=ten_b_14.$EXT
+<region> region_label=15 lorand=0.750 hirand=0.875 sample=ten_b_15.$EXT
+<region> region_label=16 lorand=0.875 hirand=1.000 sample=ten_b_16.$EXT
+
+<group> seq_position=3
+<region> region_label=17 lorand=0.000 hirand=0.125 sample=ten_b_17.$EXT
+<region> region_label=18 lorand=0.125 hirand=0.250 sample=ten_b_18.$EXT
+<region> region_label=19 lorand=0.250 hirand=0.375 sample=ten_b_19.$EXT
+<region> region_label=20 lorand=0.375 hirand=0.500 sample=ten_b_20.$EXT
+<region> region_label=21 lorand=0.500 hirand=0.625 sample=ten_b_21.$EXT
+<region> region_label=22 lorand=0.625 hirand=0.750 sample=ten_b_22.$EXT
+<region> region_label=23 lorand=0.750 hirand=0.875 sample=ten_b_23.$EXT
+<region> region_label=24 lorand=0.875 hirand=1.000 sample=ten_b_24.$EXT
+
+<group> seq_position=4
+<region> region_label=25 lorand=0.000 hirand=0.125 sample=ten_b_25.$EXT
+<region> region_label=26 lorand=0.125 hirand=0.250 sample=ten_b_26.$EXT
+<region> region_label=27 lorand=0.250 hirand=0.375 sample=ten_b_27.$EXT
+<region> region_label=28 lorand=0.375 hirand=0.500 sample=ten_b_28.$EXT
+<region> region_label=29 lorand=0.500 hirand=0.625 sample=ten_b_29.$EXT
+<region> region_label=30 lorand=0.625 hirand=0.750 sample=ten_b_30.$EXT
+<region> region_label=31 lorand=0.750 hirand=0.875 sample=ten_b_31.$EXT
+<region> region_label=32 lorand=0.875 hirand=1.000 sample=ten_b_32.$EXT
+
+<group> seq_position=5
+<region> region_label=33 lorand=0.000 hirand=0.125 sample=ten_b_33.$EXT
+<region> region_label=34 lorand=0.125 hirand=0.250 sample=ten_b_34.$EXT
+<region> region_label=35 lorand=0.250 hirand=0.375 sample=ten_b_35.$EXT
+<region> region_label=36 lorand=0.375 hirand=0.500 sample=ten_b_36.$EXT
+<region> region_label=37 lorand=0.500 hirand=0.625 sample=ten_b_37.$EXT
+<region> region_label=38 lorand=0.625 hirand=0.750 sample=ten_b_38.$EXT
+<region> region_label=39 lorand=0.750 hirand=0.875 sample=ten_b_39.$EXT
+<region> region_label=40 lorand=0.875 hirand=1.000 sample=ten_b_40.$EXT
+
+<group> seq_position=6
+<region> region_label=41 lorand=0.000 hirand=0.125 sample=ten_b_41.$EXT
+<region> region_label=42 lorand=0.125 hirand=0.250 sample=ten_b_42.$EXT
+<region> region_label=43 lorand=0.250 hirand=0.375 sample=ten_b_43.$EXT
+<region> region_label=44 lorand=0.375 hirand=0.500 sample=ten_b_44.$EXT
+<region> region_label=45 lorand=0.500 hirand=0.625 sample=ten_b_45.$EXT
+<region> region_label=46 lorand=0.625 hirand=0.750 sample=ten_b_46.$EXT
+<region> region_label=47 lorand=0.750 hirand=0.875 sample=ten_b_47.$EXT
+<region> region_label=48 lorand=0.875 hirand=1.000 sample=ten_b_48.$EXT
+
+<group> seq_position=7
+<region> region_label=49 lorand=0.000 hirand=0.125 sample=ten_b_49.$EXT
+<region> region_label=50 lorand=0.125 hirand=0.250 sample=ten_b_50.$EXT
+<region> region_label=51 lorand=0.250 hirand=0.375 sample=ten_b_51.$EXT
+<region> region_label=52 lorand=0.375 hirand=0.500 sample=ten_b_52.$EXT
+<region> region_label=53 lorand=0.500 hirand=0.625 sample=ten_b_53.$EXT
+<region> region_label=54 lorand=0.625 hirand=0.750 sample=ten_b_54.$EXT
+<region> region_label=55 lorand=0.750 hirand=0.875 sample=ten_b_55.$EXT
+<region> region_label=56 lorand=0.875 hirand=1.000 sample=ten_b_56.$EXT
+
+<group> seq_position=8
+<region> region_label=57 lorand=0.000 hirand=0.125 sample=ten_b_57.$EXT
+<region> region_label=58 lorand=0.125 hirand=0.250 sample=ten_b_58.$EXT
+<region> region_label=59 lorand=0.250 hirand=0.375 sample=ten_b_59.$EXT
+<region> region_label=60 lorand=0.375 hirand=0.500 sample=ten_b_60.$EXT
+<region> region_label=61 lorand=0.500 hirand=0.625 sample=ten_b_61.$EXT
+<region> region_label=62 lorand=0.625 hirand=0.750 sample=ten_b_62.$EXT
+<region> region_label=63 lorand=0.750 hirand=0.875 sample=ten_b_63.$EXT
+<region> region_label=64 lorand=0.875 hirand=1.000 sample=ten_b_64.$EXT
+
+//-----------------------------------
+
+<master>
+group_label=key-clicks
+seq_length=3
+key=40
+
+<group> seq_position=1
+<region> region_label=01 lorand=0.000 hirand=0.091 sample=ten_k_01.$EXT
+<region> region_label=02 lorand=0.091 hirand=0.182 sample=ten_k_02.$EXT
+<region> region_label=03 lorand=0.182 hirand=0.273 sample=ten_k_03.$EXT
+<region> region_label=04 lorand=0.273 hirand=0.364 sample=ten_k_04.$EXT
+<region> region_label=05 lorand=0.364 hirand=0.455 sample=ten_k_05.$EXT
+<region> region_label=06 lorand=0.455 hirand=0.546 sample=ten_k_06.$EXT
+<region> region_label=07 lorand=0.546 hirand=0.637 sample=ten_k_07.$EXT
+<region> region_label=08 lorand=0.637 hirand=0.728 sample=ten_k_08.$EXT
+<region> region_label=09 lorand=0.728 hirand=0.819 sample=ten_k_09.$EXT
+<region> region_label=10 lorand=0.819 hirand=0.910 sample=ten_k_10.$EXT
+<region> region_label=11 lorand=0.910 hirand=1.000 sample=ten_k_11.$EXT
+
+<group> seq_position=2
+<region> region_label=12 lorand=0.000 hirand=0.091 sample=ten_k_12.$EXT
+<region> region_label=13 lorand=0.091 hirand=0.182 sample=ten_k_13.$EXT
+<region> region_label=14 lorand=0.182 hirand=0.273 sample=ten_k_14.$EXT
+<region> region_label=15 lorand=0.273 hirand=0.364 sample=ten_k_15.$EXT
+<region> region_label=16 lorand=0.364 hirand=0.455 sample=ten_k_16.$EXT
+<region> region_label=17 lorand=0.455 hirand=0.546 sample=ten_k_17.$EXT
+<region> region_label=18 lorand=0.546 hirand=0.637 sample=ten_k_18.$EXT
+<region> region_label=19 lorand=0.637 hirand=0.728 sample=ten_k_19.$EXT
+<region> region_label=20 lorand=0.728 hirand=0.819 sample=ten_k_20.$EXT
+<region> region_label=21 lorand=0.819 hirand=0.910 sample=ten_k_21.$EXT
+<region> region_label=22 lorand=0.910 hirand=1.000 sample=ten_k_22.$EXT
+
+<group> seq_position=3
+<region> region_label=23 lorand=0.000 hirand=0.091 sample=ten_k_23.$EXT
+<region> region_label=24 lorand=0.091 hirand=0.182 sample=ten_k_24.$EXT
+<region> region_label=25 lorand=0.182 hirand=0.273 sample=ten_k_25.$EXT
+<region> region_label=26 lorand=0.273 hirand=0.364 sample=ten_k_26.$EXT
+<region> region_label=27 lorand=0.364 hirand=0.455 sample=ten_k_27.$EXT
+<region> region_label=28 lorand=0.455 hirand=0.546 sample=ten_k_28.$EXT
+<region> region_label=29 lorand=0.546 hirand=0.637 sample=ten_k_29.$EXT
+<region> region_label=30 lorand=0.637 hirand=0.728 sample=ten_k_30.$EXT
+<region> region_label=31 lorand=0.728 hirand=0.819 sample=ten_k_31.$EXT
+<region> region_label=32 lorand=0.819 hirand=0.910 sample=ten_k_32.$EXT
+<region> region_label=33 lorand=0.910 hirand=1.000 sample=ten_k_33.$EXT

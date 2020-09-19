@@ -1,0 +1,131 @@
+<master>
+group_label=breath
+seq_length=4
+key=44
+
+<group> seq_position=1
+<region> region_label=01 lorand=0.000 hirand=0.059 sample=alt_b_01.$EXT
+<region> region_label=02 lorand=0.059 hirand=0.118 sample=alt_b_02.$EXT
+<region> region_label=03 lorand=0.118 hirand=0.177 sample=alt_b_03.$EXT
+<region> region_label=04 lorand=0.177 hirand=0.236 sample=alt_b_04.$EXT
+<region> region_label=05 lorand=0.236 hirand=0.295 sample=alt_b_05.$EXT
+<region> region_label=06 lorand=0.295 hirand=0.354 sample=alt_b_06.$EXT
+<region> region_label=07 lorand=0.354 hirand=0.413 sample=alt_b_07.$EXT
+<region> region_label=08 lorand=0.413 hirand=0.472 sample=alt_b_08.$EXT
+<region> region_label=09 lorand=0.472 hirand=0.531 sample=alt_b_09.$EXT
+<region> region_label=10 lorand=0.531 hirand=0.590 sample=alt_b_10.$EXT
+<region> region_label=11 lorand=0.590 hirand=0.649 sample=alt_b_11.$EXT
+<region> region_label=12 lorand=0.649 hirand=0.708 sample=alt_b_12.$EXT
+<region> region_label=13 lorand=0.708 hirand=0.767 sample=alt_b_13.$EXT
+<region> region_label=14 lorand=0.767 hirand=0.826 sample=alt_b_14.$EXT
+<region> region_label=15 lorand=0.826 hirand=0.885 sample=alt_b_15.$EXT
+<region> region_label=16 lorand=0.885 hirand=0.944 sample=alt_b_16.$EXT
+<region> region_label=17 lorand=0.944 hirand=1.000 sample=alt_b_17.$EXT
+
+<group> seq_position=2
+<region> region_label=18 lorand=0.000 hirand=0.059 sample=alt_b_18.$EXT
+<region> region_label=19 lorand=0.059 hirand=0.118 sample=alt_b_19.$EXT
+<region> region_label=20 lorand=0.118 hirand=0.177 sample=alt_b_20.$EXT
+<region> region_label=21 lorand=0.177 hirand=0.236 sample=alt_b_21.$EXT
+<region> region_label=22 lorand=0.236 hirand=0.295 sample=alt_b_22.$EXT
+<region> region_label=23 lorand=0.295 hirand=0.354 sample=alt_b_23.$EXT
+<region> region_label=24 lorand=0.354 hirand=0.413 sample=alt_b_24.$EXT
+<region> region_label=25 lorand=0.413 hirand=0.472 sample=alt_b_25.$EXT
+<region> region_label=26 lorand=0.472 hirand=0.531 sample=alt_b_26.$EXT
+<region> region_label=27 lorand=0.531 hirand=0.590 sample=alt_b_27.$EXT
+<region> region_label=28 lorand=0.590 hirand=0.649 sample=alt_b_28.$EXT
+<region> region_label=29 lorand=0.649 hirand=0.708 sample=alt_b_29.$EXT
+<region> region_label=30 lorand=0.708 hirand=0.767 sample=alt_b_30.$EXT
+<region> region_label=31 lorand=0.767 hirand=0.826 sample=alt_b_31.$EXT
+<region> region_label=32 lorand=0.826 hirand=0.885 sample=alt_b_32.$EXT
+<region> region_label=33 lorand=0.885 hirand=0.944 sample=alt_b_33.$EXT
+<region> region_label=34 lorand=0.944 hirand=1.000 sample=alt_b_34.$EXT
+
+<group> seq_position=3
+<region> region_label=35 lorand=0.000 hirand=0.059 sample=alt_b_35.$EXT
+<region> region_label=36 lorand=0.059 hirand=0.118 sample=alt_b_36.$EXT
+<region> region_label=37 lorand=0.118 hirand=0.177 sample=alt_b_37.$EXT
+<region> region_label=38 lorand=0.177 hirand=0.236 sample=alt_b_38.$EXT
+<region> region_label=39 lorand=0.236 hirand=0.295 sample=alt_b_39.$EXT
+<region> region_label=40 lorand=0.295 hirand=0.354 sample=alt_b_40.$EXT
+<region> region_label=41 lorand=0.354 hirand=0.413 sample=alt_b_41.$EXT
+<region> region_label=42 lorand=0.413 hirand=0.472 sample=alt_b_42.$EXT
+<region> region_label=43 lorand=0.472 hirand=0.531 sample=alt_b_43.$EXT
+<region> region_label=44 lorand=0.531 hirand=0.590 sample=alt_b_44.$EXT
+<region> region_label=45 lorand=0.590 hirand=0.649 sample=alt_b_45.$EXT
+<region> region_label=46 lorand=0.649 hirand=0.708 sample=alt_b_46.$EXT
+<region> region_label=47 lorand=0.708 hirand=0.767 sample=alt_b_47.$EXT
+<region> region_label=48 lorand=0.767 hirand=0.826 sample=alt_b_48.$EXT
+<region> region_label=49 lorand=0.826 hirand=0.885 sample=alt_b_49.$EXT
+<region> region_label=50 lorand=0.885 hirand=0.944 sample=alt_b_50.$EXT
+<region> region_label=51 lorand=0.944 hirand=1.000 sample=alt_b_51.$EXT
+
+<group> seq_position=4
+<region> region_label=52 lorand=0.000 hirand=0.059 sample=alt_b_52.$EXT
+<region> region_label=53 lorand=0.059 hirand=0.118 sample=alt_b_53.$EXT
+<region> region_label=54 lorand=0.118 hirand=0.177 sample=alt_b_54.$EXT
+<region> region_label=55 lorand=0.177 hirand=0.236 sample=alt_b_55.$EXT
+<region> region_label=56 lorand=0.236 hirand=0.295 sample=alt_b_56.$EXT
+<region> region_label=57 lorand=0.295 hirand=0.354 sample=alt_b_57.$EXT
+<region> region_label=58 lorand=0.354 hirand=0.413 sample=alt_b_58.$EXT
+<region> region_label=59 lorand=0.413 hirand=0.472 sample=alt_b_59.$EXT
+<region> region_label=60 lorand=0.472 hirand=0.531 sample=alt_b_60.$EXT
+<region> region_label=61 lorand=0.531 hirand=0.590 sample=alt_b_61.$EXT
+<region> region_label=62 lorand=0.590 hirand=0.649 sample=alt_b_62.$EXT
+<region> region_label=63 lorand=0.649 hirand=0.708 sample=alt_b_63.$EXT
+<region> region_label=64 lorand=0.708 hirand=0.767 sample=alt_b_64.$EXT
+<region> region_label=65 lorand=0.767 hirand=0.826 sample=alt_b_65.$EXT
+<region> region_label=66 lorand=0.826 hirand=0.885 sample=alt_b_66.$EXT
+<region> region_label=67 lorand=0.885 hirand=0.944 sample=alt_b_67.$EXT
+<region> region_label=68 lorand=0.944 hirand=1.000 sample=alt_b_68.$EXT
+
+//-----------------------------------
+
+<master>
+group_label=key-clicks
+seq_length=4
+key=45
+
+<group> seq_position=1
+<region> region_label=01 lorand=0.000 hirand=0.111 sample=alt_k_01.$EXT
+<region> region_label=02 lorand=0.111 hirand=0.222 sample=alt_k_02.$EXT
+<region> region_label=03 lorand=0.222 hirand=0.333 sample=alt_k_03.$EXT
+<region> region_label=04 lorand=0.333 hirand=0.444 sample=alt_k_04.$EXT
+<region> region_label=05 lorand=0.444 hirand=0.555 sample=alt_k_05.$EXT
+<region> region_label=06 lorand=0.555 hirand=0.666 sample=alt_k_06.$EXT
+<region> region_label=07 lorand=0.666 hirand=0.777 sample=alt_k_07.$EXT
+<region> region_label=08 lorand=0.777 hirand=0.888 sample=alt_k_08.$EXT
+<region> region_label=09 lorand=0.888 hirand=1.000 sample=alt_k_09.$EXT
+
+<group> seq_position=2
+<region> region_label=10 lorand=0.000 hirand=0.111 sample=alt_k_10.$EXT
+<region> region_label=11 lorand=0.111 hirand=0.222 sample=alt_k_11.$EXT
+<region> region_label=12 lorand=0.222 hirand=0.333 sample=alt_k_12.$EXT
+<region> region_label=13 lorand=0.333 hirand=0.444 sample=alt_k_13.$EXT
+<region> region_label=14 lorand=0.444 hirand=0.555 sample=alt_k_14.$EXT
+<region> region_label=15 lorand=0.555 hirand=0.666 sample=alt_k_15.$EXT
+<region> region_label=16 lorand=0.666 hirand=0.777 sample=alt_k_16.$EXT
+<region> region_label=17 lorand=0.777 hirand=0.888 sample=alt_k_17.$EXT
+<region> region_label=18 lorand=0.888 hirand=1.000 sample=alt_k_18.$EXT
+
+<group> seq_position=3
+<region> region_label=19 lorand=0.000 hirand=0.111 sample=alt_k_19.$EXT
+<region> region_label=20 lorand=0.111 hirand=0.222 sample=alt_k_20.$EXT
+<region> region_label=21 lorand=0.222 hirand=0.333 sample=alt_k_21.$EXT
+<region> region_label=22 lorand=0.333 hirand=0.444 sample=alt_k_22.$EXT
+<region> region_label=23 lorand=0.444 hirand=0.555 sample=alt_k_23.$EXT
+<region> region_label=24 lorand=0.555 hirand=0.666 sample=alt_k_24.$EXT
+<region> region_label=25 lorand=0.666 hirand=0.777 sample=alt_k_25.$EXT
+<region> region_label=26 lorand=0.777 hirand=0.888 sample=alt_k_26.$EXT
+<region> region_label=27 lorand=0.888 hirand=1.000 sample=alt_k_27.$EXT
+
+<group> seq_position=4
+<region> region_label=28 lorand=0.000 hirand=0.111 sample=alt_k_28.$EXT
+<region> region_label=29 lorand=0.111 hirand=0.222 sample=alt_k_29.$EXT
+<region> region_label=30 lorand=0.222 hirand=0.333 sample=alt_k_30.$EXT
+<region> region_label=31 lorand=0.333 hirand=0.444 sample=alt_k_31.$EXT
+<region> region_label=32 lorand=0.444 hirand=0.555 sample=alt_k_32.$EXT
+<region> region_label=33 lorand=0.555 hirand=0.666 sample=alt_k_33.$EXT
+<region> region_label=34 lorand=0.666 hirand=0.777 sample=alt_k_34.$EXT
+<region> region_label=35 lorand=0.777 hirand=0.888 sample=alt_k_35.$EXT
+<region> region_label=36 lorand=0.888 hirand=1.000 sample=alt_k_36.$EXT

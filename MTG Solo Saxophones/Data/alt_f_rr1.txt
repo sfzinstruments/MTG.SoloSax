@@ -1,0 +1,33 @@
+<region> region_label=01_rr1 seq_position=1 key=49 sample=alt_f_01.$EXT volume=-7 tune=-21
+<region> region_label=02_rr1 seq_position=1 key=50 sample=alt_f_02.$EXT volume=-3 tune=-11
+<region> region_label=03_rr1 seq_position=1 key=51 sample=alt_f_03.$EXT volume=-2 tune=-2
+<region> region_label=04_rr1 seq_position=1 key=52 sample=alt_f_04.$EXT
+<region> region_label=05_rr1 seq_position=1 key=53 sample=alt_f_05.$EXT tune=7
+<region> region_label=06_rr1 seq_position=1 key=54 sample=alt_f_06.$EXT volume=-2 tune=5
+<region> region_label=07_rr1 seq_position=1 key=55 sample=alt_f_07.$EXT tune=-2
+<region> region_label=08_rr1 seq_position=1 key=56 sample=alt_f_08.$EXT tune=-3
+<region> region_label=09_rr1 seq_position=1 key=57 sample=alt_f_09.$EXT volume=-1.5 tune=-5
+<region> region_label=10_rr1 seq_position=1 key=58 sample=alt_f_10.$EXT tune=-5
+<region> region_label=11_rr1 seq_position=1 key=59 sample=alt_f_11.$EXT tune=-6
+<region> region_label=12_rr1 seq_position=1 key=60 sample=alt_f_12.$EXT tune=-13
+<region> region_label=13_rr1 seq_position=1 key=61 sample=alt_f_13.$EXT tune=-11
+<region> region_label=14_rr1 seq_position=1 key=62 sample=alt_f_14.$EXT tune=-7
+<region> region_label=15_rr1 seq_position=1 key=63 sample=alt_f_15.$EXT volume=2 tune=-13
+<region> region_label=16_rr1 seq_position=1 key=64 sample=alt_f_16.$EXT volume=1 tune=-8
+<region> region_label=17_rr1 seq_position=1 key=65 sample=alt_f_17.$EXT volume=-1 tune=-25
+<region> region_label=18_rr1 seq_position=1 key=66 sample=alt_f_18.$EXT volume=1.5 tune=-21
+<region> region_label=19_rr1 seq_position=1 key=67 sample=alt_f_19.$EXT tune=-22
+<region> region_label=20_rr1 seq_position=1 key=68 sample=alt_f_20.$EXT volume=-1 tune=-21
+<region> region_label=21_rr1 seq_position=1 key=69 sample=alt_f_21.$EXT volume=-2 tune=-15
+<region> region_label=22_rr1 seq_position=1 key=70 sample=alt_f_22.$EXT volume=-0.5 tune=-17
+<region> region_label=23_rr1 seq_position=1 key=71 sample=alt_f_23.$EXT tune=-15
+<region> region_label=24_rr1 seq_position=1 key=72 sample=alt_f_24.$EXT tune=-19
+<region> region_label=25_rr1 seq_position=1 key=73 sample=alt_f_25.$EXT tune=-23
+<region> region_label=26_rr1 seq_position=1 key=74 sample=alt_f_26.$EXT volume=0.5 tune=-23
+<region> region_label=27_rr1 seq_position=1 key=75 sample=alt_f_27.$EXT volume=1 tune=-26
+<region> region_label=28_rr1 seq_position=1 key=76 sample=alt_f_28.$EXT volume=-1 tune=-40
+<region> region_label=29_rr1 seq_position=1 key=77 sample=alt_f_29.$EXT volume=-2.5 tune=-32
+<region> region_label=30_rr1 seq_position=1 key=78 sample=alt_f_30.$EXT volume=-1 tune=-33
+<region> region_label=31_rr1 seq_position=1 key=79 sample=alt_f_31.$EXT volume=-1 tune=-34
+<region> region_label=32_rr1 seq_position=1 key=80 sample=alt_f_32.$EXT volume=-2.5 tune=-25
+<region> region_label=33_rr1 seq_position=1 key=81 sample=alt_f_33.$EXT volume=-4.5 tune=-22

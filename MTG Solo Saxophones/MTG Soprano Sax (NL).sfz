@@ -1,0 +1,119 @@
+//--------------------------------------
+// Sax Soprano single notes
+// by MTG @freesound.org
+//--------------------------------------
+// SFZ format for ARIA Engine
+// programmed by kinwie
+//--------------------------------------
+
+
+//midi cc
+#define $ATTACK 71
+#define $RELEASE 72
+#define $VIB_RATE 3
+#define $VIBRATO 1
+#define $LEGATO 64
+#define $EXPRESSION 11
+#define $VELTRACK 99
+#define $OFFSET 98
+#define $NOISE 80
+
+//file_extension
+#include "Data/xtension.txt"
+
+
+///////////////////////////////////////////////////////////////////
+<control>
+default_path=Samples/
+
+label_cc7=Vol
+label_cc10=Pan
+label_cc$ATTACK=Attack
+label_cc$RELEASE=Release
+label_cc$VIB_RATE=Vib Rate
+label_cc$VIBRATO=Vibrato
+label_cc$LEGATO=Legato
+label_cc$EXPRESSION=Exp
+label_cc$VELTRACK=Veltrack
+label_cc$OFFSET=Offset
+label_cc$NOISE=Noises
+set_cc7=100
+set_hdcc10=0.5
+set_hdcc$RELEASE=0.3
+set_hdcc$VIB_RATE=0.5
+set_hdcc$EXPRESSION=1
+set_hdcc$VELTRACK=1
+set_hdcc$NOISE=0.5
+
+
+//***************************************************************
+<global>
+#include "Data/volpan.txt"
+ampeg_release_oncc$RELEASE=1
+amplitude_oncc$EXPRESSION=100
+amplitude_curvecc$EXPRESSION=4
+amp_veltrack_oncc$VELTRACK=-100
+amp_veltrack_curvecc$VELTRACK=2
+pitchlfo_freq_oncc$VIB_RATE=10
+pitchlfo_depth_oncc$VIBRATO=50
+pitchlfo_fade=2
+off_time=0.05
+off_shape=0
+seq_length=3
+loop_mode=no_loop
+
+//=========================================
+
+<master>
+master_label=attack
+group=1
+off_by=2
+ampeg_attack_oncc131=0.1
+ampeg_attack_curvecc131=8
+offset_oncc$OFFSET=3000
+ampeg_attack_oncc$OFFSET=0.02
+ampeg_attack_oncc$ATTACK=1
+#include "Data/group_sop.txt"
+
+<master>
+master_label=legato
+trigger=legato
+group=2
+polyphony=1
+offset_oncc$LEGATO=20000
+offset_curvecc$LEGATO=9
+offset_random=40000
+ampeg_attack=0.05
+locc$LEGATO=1
+#include "Data/group_sop.txt"
+
+//**************************
+<global>
+master_label=noises
+#include "Data/volpan.txt"
+amp_veltrack=0
+locc$NOISE=1
+amplitude_oncc$NOISE=200
+#include "Data/noise_sop.txt"
+
+
+//--------------------------
+
+<curve>
+curve_index=7
+v000=1
+v100=0
+v101=1
+v127=0
+
+<curve>
+curve_index=8
+v000=1
+v100=0
+v127=0
+
+<curve>
+curve_index=9
+v000=0
+v001=1
+v127=1
