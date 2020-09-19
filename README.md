@@ -3,10 +3,10 @@
 A complete set of Soprano, Alto, Tenor and Baritone solo saxophones built from
 MTG free samples pack that available at:
 
-https://freesound.org/people/MTG/packs/20251/
-https://freesound.org/people/MTG/packs/20239/
-https://freesound.org/people/MTG/packs/20247/
-https://freesound.org/people/MTG/packs/20253/
+- https://freesound.org/people/MTG/packs/20251/
+- https://freesound.org/people/MTG/packs/20239/
+- https://freesound.org/people/MTG/packs/20247/
+- https://freesound.org/people/MTG/packs/20253/
 
 Samples are trimmed, looped, converted to Flac and programmed into
 SFZ format v2 with ARIA Extensions by kinwie.
